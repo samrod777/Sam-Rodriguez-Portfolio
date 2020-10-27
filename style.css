@@ -1,6 +1,7 @@
 body { 
     margin: 0;
     background-color: cornsilk;
+    font-size: 20px;
 }
 
 .navbar {
@@ -42,7 +43,7 @@ h2.title,
 }
 
 img.photo {
-    margin: 10px;
+    margin: 25px;
     border-radius: 5px;
     width: 35%;
     float: left;
