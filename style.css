@@ -1,6 +1,6 @@
 body { 
     margin: 0;
-    background-image: url("../images/greyfloral.png");
+    background-color: cornsilk;
 }
 
 .navbar {
@@ -25,7 +25,8 @@ h2#head{
     color: #ffffff;
 }
 
-h2.title{
+h2.title, 
+.connect{
     color: #4aaaa5;
 }
 
@@ -36,12 +37,20 @@ h2.title{
     line-height: 2;
 }
 
+.card{
+    margin-bottom: 20px;
+}
 
 img.photo {
     margin: 10px;
     border-radius: 5px;
     width: 35%;
     float: left;
+}
+
+.connect-nav{
+    list-style-type: none;
+    
 }
 
 div.stripe{
@@ -65,8 +74,8 @@ button {
 }
 
 .page-footer{
-    background-color: #666666;
-    border-top: 8px solid #4aaaa5;
+    background-color: rgb(197, 194, 194);
+    border-top: 4px solid #4aaaa5;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 10px;
     color: #ffffff;
