@@ -1,6 +1,6 @@
 # Sam-Rodriguez-Portfolio
 
-![Sam Rodriguez Portfolio Picture](assets/Portfolio.png)
+![Sam Rodriguez Portfolio Picture](assets/Portfolio-Screenshot-2.png)
 
 INTRUDUCTION
 
