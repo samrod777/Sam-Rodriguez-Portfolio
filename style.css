@@ -3,7 +3,7 @@ body {
     background-color: cornsilk;
     font-size: 20px;
 }
--
+
 .navbar {
     background-color: #ffffff;
     margin-bottom: 20px;
@@ -53,8 +53,8 @@ img.photo {
     
 }
 
-div.stripe{
-    height: 40px;
+.stripe{
+    height: 80px;
     position: relative;
     bottom: 60px;
     padding-top: 5px;
@@ -66,12 +66,19 @@ div.stripe{
     color: #ffffff;
 }
 
-button {
+.button {
+    padding: 10px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/* .button {
     padding: 10px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
     color: #ffffff;
-}
+} */
 
 .page-footer{
     background-color: rgb(197, 194, 194);
